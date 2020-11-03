@@ -1,0 +1,5 @@
+My Capstone Project is a website that will allow my mother to manage her checking account online through an online check registry. Currently, my mother utilizes a paper registry which she handwrites all of her entries. I would like to create a simplistic website which allow her to complete this task online. 
+The site will be responsive through all viewports, so she can access the site via her handheld devices. There is a log-in screen to ensure information is secured. Upon the first time entering the site, you will be asked to add an account name and current balance for that particular account. There is an option to have multiple accounts on the site. Once the account has been setup, you will start making your entries. Each entry will include the option of placing the check number, date, transaction description, and payment/deposit. A running balance will show in realtime as entries are added. The home page will have a running balance of all accounts. 
+When building this website, I will utilized HTML, CSS, JavaScript, and Bootstrap.
+
+
